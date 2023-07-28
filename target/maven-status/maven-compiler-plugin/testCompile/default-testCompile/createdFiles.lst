@@ -1,0 +1,8 @@
+com\superProject\utilities\Reporting.class
+com\superProject\pageObject\LoginPage.class
+com\superProject\testCases\TC_LoginDDT_002.class
+com\superProject\utilities\ReadConfig.class
+com\superProject\testCases\TC_LoginTest_001.class
+com\superProject\utilities\ExtentHtmlReporter.class
+com\superProject\utilities\XLUtils.class
+com\superProject\testCases\BaseClass.class
